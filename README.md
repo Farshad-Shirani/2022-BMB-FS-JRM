@@ -13,7 +13,7 @@ All codes are written in MATLAB R2021a.
 ## Description
 These MATLAB codes numerically compute solutions of several systems of partaial differntial equations that simulae adaptive evoultion of the geographic range of biological species in 1- and 2-dimensional spaces.
 
-# How to run simulations:
+## How to run simulations:
 
 -	Codes for a single species as well as two species, both in 1-dimensional and 2-dimensional geographic spaces, are provided in separate folders.
 
