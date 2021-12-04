@@ -2,7 +2,7 @@
 
 # Adaptive Evolution of a Species' Range
 
-Written by Farshad Shirani (f.shirani@gatech.edu), December 3, 2021
+Written by Farshad Shirani (f.shirani@gatech.edu), December 3, 2021.
 
 This repository contains MATLAB codes used in the article:
 
